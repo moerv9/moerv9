@@ -44,6 +44,9 @@ to write articles on Medium. Visit [my Profile](https://medium.com/@moerv/about)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moerv9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+Sentiment with Python:
 ![Sentiment top language](https://img.shields.io/github/languages/top/moerv9/sentiment)
+Plant App with Flutter:
 ![Plant App top language](https://img.shields.io/github/languages/top/moerv9/flutter-waterplants)
+VR:App Underwater Protection in Unity:
 ![VR App: Underwater Protection top language](https://img.shields.io/github/languages/top/moerv9/unity-vr-underwaterprotection)
