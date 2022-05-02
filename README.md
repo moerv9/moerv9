@@ -20,7 +20,7 @@ See the [Code](https://github.com/moerv9/moerv9/bots/) here.
 Please check out [my Profile](https://medium.com/@moerv/about).
 
 Or read one of  my recent Posts
-<a target="_blank" href="https://medium.com/@moerv/0"><img src="hhttps://medium.com/@moerv/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://medium.com/@moerv/how-i-defeated-my-instagram-addiction-c71b82ff46c7"><img src="https://miro.medium.com/max/1400/0*wriX04_yLgADIVCM" alt="Recent Article 0" width="200"> 
 
 
 
