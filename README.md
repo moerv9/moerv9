@@ -1,16 +1,30 @@
 ### Hi there 👋
 My Name is Marvin. I am currently studying Media-Engineering at the University of Applied Sciences in Kiel and will start my masters in Data Science next year.
 
-### I am currently working on ...
+### I am currently working on : Building Bots 
 
-...Social Signal Sentiment-Based Prediction for Cryptocurrency Trading.
+ -> Social Signal Sentiment-Based Prediction for Cryptocurrency Trading.
 I am building a Bot that automatically trades Cryptos based on the Sentiment in Twitter.
 
-### 🌱 I’m currently learning ...
+-> Code A Bot A Day Challenge:
+I want to code a bot a day that automates something I am interested in.
+The first bot is a simple script that gets the latest Tweets from Elon Musk. 
 
-to write articles on Medium. Visit [my Profile](https://medium.com/@moerv/about).
+[![See Result on Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/moerv9/bots/main/elons_tweets.py)
 
-### Reach me:
+See the [Code](https://github.com/moerv9/moerv9/bots/) here.
+
+
+### 🌱 I’m currently learning : To write articles on Medium. 
+
+Please check out [my Profile](https://medium.com/@moerv/about).
+
+Or read one of  my recent Posts
+<a target="_blank" href="https://medium.com/@moerv/0"><img src="hhttps://medium.com/@moerv/0" alt="Recent Article 0"> 
+
+
+
+### How to reach me
 
 <div id="badges" style="display: inline">
   <a href="https://www.linkedin.com/in/marvin-ottersberg-2818b91a0/">
@@ -26,7 +40,7 @@ to write articles on Medium. Visit [my Profile](https://medium.com/@moerv/about)
 <img src="https://komarev.com/ghpvc/?username=moerv9&style=plastic&color=blue" alt=""/>
 
 
-### :hammer_and_wrench: Languages and Tools:
+### :hammer_and_wrench: I am using/learning these Languages & Tools :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
