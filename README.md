@@ -17,11 +17,11 @@ See the [Code](https://github.com/moerv9/moerv9/bots/) here.
 
 ### 🌱 I’m currently learning : To write articles on Medium. 
 <p align="center">
-Check out my Profile:
-<a href="https://medium.com/@moerv/about"><img src="https://github.com/moerv9.png" alt="Medium Profile" width="300">
-
-Or read one of  my recent Posts:
-<a target="_blank" href="https://medium.com/@moerv/how-i-defeated-my-instagram-addiction-c71b82ff46c7"><img src="https://miro.medium.com/max/1400/0*wriX04_yLgADIVCM" alt="Recent Article 0" width="200"> 
+<h2>Check out my Profile:</h2><br></br>
+<a href="https://medium.com/@moerv/about"><img src="https://github.com/moerv9.png" alt="Medium Profile" width="250">
+<br></br>
+ <h2>Or read one of  my recent Posts:</h2><br></br>
+<a href="https://medium.com/@moerv/how-i-defeated-my-instagram-addiction-c71b82ff46c7"><img src="https://miro.medium.com/max/1400/0*wriX04_yLgADIVCM" alt="Recent Article 0" width="200"> 
  </p>
 
 
