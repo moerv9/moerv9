@@ -16,18 +16,18 @@ See the [Code](https://github.com/moerv9/moerv9/bots/) here.
 
 
 ### 🌱 I’m currently learning : To write articles on Medium. 
-<p align="center">
-<h2>Check out my Profile:</h2><br></br>
-<a href="https://medium.com/@moerv/about"><img src="https://github.com/moerv9.png" alt="Medium Profile" width="250">
-<br></br>
- <h2>Or read one of  my recent Posts:</h2><br></br>
-<a href="https://medium.com/@moerv/how-i-defeated-my-instagram-addiction-c71b82ff46c7"><img src="https://miro.medium.com/max/1400/0*wriX04_yLgADIVCM" alt="Recent Article 0" width="200"> 
- </p>
+<h4>Check out my Profile:</h4>
+<div align="center">
 
+<a href="https://medium.com/@moerv/about"><img src="https://github.com/moerv9.png" alt="Medium Profile" width="250">
+  </div>
+ <h4>Or read one of  my recent Posts:</h4>
+ <div align="center">
+<a href="https://medium.com/@moerv/how-i-defeated-my-instagram-addiction-c71b82ff46c7"><img src="https://miro.medium.com/max/1400/0*wriX04_yLgADIVCM" alt="Recent Article 0" width="200"></a> <p>How I defeated my Instagram-Addiction</p>
+ </div>
 
 ### How to reach me
-
-<div id="badges" style="display: inline">
+<div id="badges" style="display: inline" align="center">
   <a href="https://www.linkedin.com/in/marvin-ottersberg-2818b91a0/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -38,11 +38,11 @@ See the [Code](https://github.com/moerv9/moerv9/bots/) here.
     <img src="https://img.shields.io/badge/Twitter-blue?style=plastic&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=moerv9&style=plastic&color=blue" alt=""/>
 
+´
 
 ### :hammer_and_wrench: I am using/learning these Languages & Tools :
-<div>
+<div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
@@ -55,10 +55,12 @@ See the [Code](https://github.com/moerv9/moerv9/bots/) here.
 </div>
 
 ### :fire: My Stats :
+ <img src="https://komarev.com/ghpvc/?username=moerv9&style=plastic&color=blue" alt=""/>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moerv9&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DD272700)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moerv9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
 Sentiment with Python:
 ![Sentiment top language](https://img.shields.io/github/languages/top/moerv9/sentiment)
 Plant App with Flutter:
