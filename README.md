@@ -3,7 +3,7 @@ My Name is Marvin. I am currently studying Media-Engineering at the University o
 
 ### I am currently working on : Building Bots 
 
- -> Social Signal Sentiment-Based Prediction for Cryptocurrency Trading.
+ -> [Social Signal Sentiment-Based Prediction for Cryptocurrency Trading](https://github.com/moerv9/sentiment)
 I am building a Bot that automatically trades Cryptos based on the Sentiment in Twitter.
 
 -> Code A Bot A Day Challenge:
