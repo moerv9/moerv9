@@ -4,10 +4,11 @@ My Name is Marvin. I am currently studying Media-Engineering at the University o
 ### I am currently working on : Building Bots 
 
  -> [Social Signal Sentiment-Based Prediction for Cryptocurrency Trading](https://github.com/moerv9/sentiment)
+ 
 I am building a Bot that automatically trades Cryptos based on the Sentiment in Twitter.
 
 -> Code A Bot A Day Challenge:
-I want to code a bot a day that automates something I am interested in.
+I want to code some handy bots that automate something I am interested in.
 The first bot is a simple script that gets the latest Tweets from Elon Musk. 
 
 [![See Result on Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/moerv9/bots/main/elons_tweets.py)
