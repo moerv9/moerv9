@@ -1,12 +1,11 @@
 ### Hi there 👋
 My Name is Marvin. I have my bachelors degree of Media-Engineering from the University of Applied Sciences in Kiel and have been working as a AWS Cloud Architect from 2022 to 2026.
 
-### I am currently working on : Building Bots 
+
+### I am currently working on : A Surf Dashboard for local Surf Spots in Morocco
 
 
-### 🌱 I’m currently learning : To write articles on Medium. 
-<h4>Check out my Profile:</h4>
-<div align="center">
+### I’m currently learning : Python Automatisation 
 
 
 ### How to reach me
