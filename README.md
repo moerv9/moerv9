@@ -6,6 +6,8 @@ My name is **Marvin Ottersberg** – a 28-year-old cloud developer with a passio
 
 Making an impact by finding solutions – that's my approach. I love combining technical skills with social impact, creating solutions that engage diverse audiences and foster collaboration. When I'm not coding, you'll find me traveling, surfing, climbing, or organizing community events.
 
+See my [Resume](https://resume.marvinottersberg.de/resume/cloud-engineer)
+
 ### 🚀 Currently Working On
 
 - **A Surf Dashboard** for local surf spots in Morocco
